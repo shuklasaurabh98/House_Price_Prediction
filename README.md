@@ -37,5 +37,3 @@ A web-based application that predicts house prices based on property details and
 - Target: House Price
 
 ---
-
-## 📂 Project Structure
