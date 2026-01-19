@@ -33,6 +33,7 @@ A web-based application that predicts house prices based on property details and
   - Area (sqft)
   - Bedrooms
   - Bathrooms
+  - State
   - City (encoded)
 - Target: House Price
 
