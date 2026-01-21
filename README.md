@@ -35,6 +35,11 @@ A web-based application that predicts house prices based on property details and
   - Bathrooms
   - State
   - City (encoded)
+  - Pin Code
+  - Mortage Interest Rate
+  - Property Tax Rate
+  - Construction Cost
+  - Number of Homes for Sale
 - Target: House Price
 
 ---
